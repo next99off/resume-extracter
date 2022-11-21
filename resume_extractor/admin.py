@@ -8,4 +8,3 @@ admin.site.register(models.LicenceInfoModel)
 admin.site.register(models.AvailableStates)
 admin.site.register(models.ActiveInfoModel)
 admin.site.register(models.SpecialitiesModel)
-
